@@ -1,2 +1,2 @@
-# Game_on_C-
+# Game_on_C
 Game X and 0
